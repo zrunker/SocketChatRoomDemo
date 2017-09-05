@@ -12,7 +12,6 @@ import javax.swing.JOptionPane;
  * @author ×Þ·åÁ¢
  */
 public class ServerListener extends Thread {
-
 	@Override
 	public void run() {
 		try {
